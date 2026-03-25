@@ -1,0 +1,144 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"type": "home",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarBackgroundColor": "#ff4d4f",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/cart/index",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "回收车"
+			}
+		},
+		{
+			"path": "pages/index/demo",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "请求测试页面",
+				"navigationBarTextStyle": "black",
+				"navigationBarBackgroundColor": "#ffffff",
+				"backgroundColor": "#ffffff"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/mine/vip-center",
+			"type": "page",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/order/index",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "去下单"
+			}
+		},
+		{
+			"path": "pages/product/exchange",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "限时特惠",
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/product/invite-friends",
+			"type": "page",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/product/list",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "产品列表"
+			}
+		},
+		{
+			"path": "pages/product/photo-price",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "拍照查价",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/product/recycle-list-webview",
+			"type": "page",
+			"style": {
+				"navigationBarTitleText": "回收列表"
+			}
+		},
+		{
+			"path": "pages/product/warranty-query",
+			"type": "page",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor": "#ffffff",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "青创回收"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#ff4d4f",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home-active.png"
+			},
+			{
+				"pagePath": "pages/order/index",
+				"text": "去下单",
+				"iconPath": "static/tabbar/order.png",
+				"selectedIconPath": "static/tabbar/order-active.png"
+			},
+			{
+				"pagePath": "pages/cart/index",
+				"text": "回收车",
+				"iconPath": "static/tabbar/cart.png",
+				"selectedIconPath": "static/tabbar/cart-active.png"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"text": "我的",
+				"iconPath": "static/tabbar/mine.png",
+				"selectedIconPath": "static/tabbar/mine-active.png"
+			}
+		]
+	},
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^wd-(.*)": "wot-design-uni/components/wd-$1/wd-$1.vue",
+			"^(?!z-paging-refresh|z-paging-load-more)z-paging(.*)": "z-paging/components/z-paging$1/z-paging$1.vue"
+		}
+	},
+	"subPackages": []
+}
