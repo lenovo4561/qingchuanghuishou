@@ -13,20 +13,6 @@ export default defineUniPages({
       }
     },
     {
-      path: 'pages/product/list',
-      type: 'page',
-      style: {
-        navigationBarTitleText: '产品列表'
-      }
-    },
-    {
-      path: 'pages/product/recycle-list-webview',
-      type: 'page',
-      style: {
-        navigationBarTitleText: '回收列表'
-      }
-    },
-    {
       path: 'pages/order/index',
       type: 'page',
       style: {
@@ -44,7 +30,9 @@ export default defineUniPages({
       path: 'pages/mine/index',
       type: 'page',
       style: {
-        navigationBarTitleText: '我的'
+        navigationBarTitleText: '个人中心',
+        navigationBarBackgroundColor: '#fe3247',
+        navigationBarTextStyle: 'white'
       }
     }
   ],
@@ -78,7 +66,7 @@ export default defineUniPages({
       },
       {
         pagePath: 'pages/mine/index',
-        text: '我的',
+        text: '个人中心',
         iconPath: 'static/tabbar/mine.png',
         selectedIconPath: 'static/tabbar/mine-active.png'
       }

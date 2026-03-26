@@ -1,21 +1,21 @@
-[
+﻿[
   {
-    "title": "废旧手机回收报价",
+    "title": "搴熸棫鎵嬫満鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "热门老年机",
+        "name": "鐑棬鑰佸勾鏈?,
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-03-23/27788202303230920582741.image/gif"
       },
       {
-        "name": "智能机/电容屏",
+        "name": "鏅鸿兘鏈?鐢靛灞?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-11-29/%E7%94%B5%E5%AE%B9%E5%B1%8F.png"
       },
       {
-        "name": "手机拆机件",
+        "name": "鎵嬫満鎷嗘満浠?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-4-1/-1.jpg"
       },
       {
-        "name": "电池",
+        "name": "鐢垫睜",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/5a482202307261346504846.image/jpeg"
       },
       {
@@ -27,47 +27,47 @@
         "img": "/static/images/categories/img_1d6c29422e0b.jpg"
       },
       {
-        "name": "小米",
+        "name": "灏忕背",
         "img": "/static/images/categories/img_ccb36b1f1429.jpg"
       },
       {
-        "name": "华为OK板",
+        "name": "鍗庝负OK鏉?,
         "img": "/static/images/categories/img_66c7d042e4b4.jpg"
       },
       {
-        "name": "华为",
+        "name": "鍗庝负",
         "img": "/static/images/categories/img_80ba47f52efd.jpg"
       },
       {
-        "name": "三星",
+        "name": "涓夋槦",
         "img": "/static/images/categories/img_952db245f784.jpg"
       },
       {
-        "name": "苹果",
+        "name": "鑻规灉",
         "img": "/static/images/categories/img_c306452fdf1a.jpg"
       },
       {
-        "name": "高仿苹果",
+        "name": "楂樹豢鑻规灉",
         "img": "/static/images/categories/img_958e10bba36f.jpg"
       },
       {
-        "name": "金立",
+        "name": "閲戠珛",
         "img": "/static/images/categories/img_08acf14df5c1.jpg"
       },
       {
-        "name": "联想",
+        "name": "鑱旀兂",
         "img": "/static/images/categories/img_ba1837bce4b4.jpg"
       },
       {
-        "name": "酷派/ivvi",
+        "name": "閰锋淳/ivvi",
         "img": "/static/images/categories/img_fc52792cb010.jpg"
       },
       {
-        "name": "魅族",
+        "name": "榄呮棌",
         "img": "/static/images/categories/img_bf4ba7eb9bcd.jpg"
       },
       {
-        "name": "锤子",
+        "name": "閿ゅ瓙",
         "img": "/static/images/categories/img_ecd1019d6915.jpg"
       },
       {
@@ -76,38 +76,38 @@
       },
       {
         "name": "HTC",
-        "img": "/static/images/categories/img_f1b400be1860.png"
+        "img": "/static/images/categories/img_f1b400be1860.jpg"
       },
       {
-        "name": "黑莓",
-        "img": "/static/images/categories/img_7e75cfc658b8.png"
+        "name": "榛戣帗",
+        "img": "/static/images/categories/img_7e75cfc658b8.jpg"
       },
       {
-        "name": "一加",
-        "img": "/static/images/categories/img_67c240ff347a.png"
+        "name": "涓€鍔?,
+        "img": "/static/images/categories/img_67c240ff347a.jpg"
       },
       {
-        "name": "真我/realme",
+        "name": "鐪熸垜/realme",
         "img": "/static/images/categories/img_f73256e044ab.jpg"
       },
       {
-        "name": "诺基亚",
+        "name": "璇哄熀浜?,
         "img": "/static/images/categories/img_a7c4feb3d1b3.jpg"
       },
       {
-        "name": "美图",
+        "name": "缇庡浘",
         "img": "/static/images/categories/img_511fd6193877.jpg"
       },
       {
-        "name": "乐视",
+        "name": "涔愯",
         "img": "/static/images/categories/img_273d8adf31d5.jpg"
       },
       {
-        "name": "努比亚",
+        "name": "鍔瘮浜?,
         "img": "/static/images/categories/img_411b85880099.jpg"
       },
       {
-        "name": "中国移动",
+        "name": "涓浗绉诲姩",
         "img": "/static/images/categories/img_300ad447c96b.jpg"
       },
       {
@@ -115,7 +115,7 @@
         "img": "/static/images/categories/img_59052a453d6e.jpg"
       },
       {
-        "name": "中兴",
+        "name": "涓叴",
         "img": "/static/images/categories/img_824a593230fb.jpg"
       },
       {
@@ -123,386 +123,386 @@
         "img": "/static/images/categories/img_01e3aa1d14be.jpg"
       },
       {
-        "name": "糖果/国美",
+        "name": "绯栨灉/鍥界編",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-26/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231126161015.png"
       },
       {
-        "name": "步步高",
+        "name": "姝ユ楂?,
         "img": "/static/images/categories/img_689e4544b564.jpg"
       },
       {
-        "name": "海信",
+        "name": "娴蜂俊",
         "img": "/static/images/categories/img_fb05ef4ed94e.jpg"
       },
       {
-        "name": "朵唯",
+        "name": "鏈靛敮",
         "img": "/static/images/categories/img_c4c0e54b69c4.jpg"
       },
       {
-        "name": "格力",
+        "name": "鏍煎姏",
         "img": "/static/images/categories/img_bcb53eedb2e9.jpg"
       },
       {
-        "name": "摩托罗拉",
+        "name": "鎽╂墭缃楁媺",
         "img": "/static/images/categories/img_3f3d3a4c8088.jpg"
       },
       {
-        "name": "华硕",
+        "name": "鍗庣",
         "img": "/static/images/categories/img_3445723e70c8.jpg"
       },
       {
-        "name": "柔宇",
+        "name": "鏌斿畤",
         "img": "/static/images/categories/img_391dd216b36e.jpg"
       },
       {
-        "name": "谷歌Google",
-        "img": "/static/images/categories/img_86b202e1c9a2.png"
+        "name": "璋锋瓕Google",
+        "img": "/static/images/categories/img_86b202e1c9a2.jpg"
       }
     ]
   },
   {
-    "title": "数码相机回收报价",
+    "title": "鏁扮爜鐩告満鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "索尼相机",
+        "name": "绱㈠凹鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/bfdcb202307261350517600.image/jpeg"
       },
       {
-        "name": "佳能相机",
+        "name": "浣宠兘鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/5a1d3202307261435232052.image/jpeg"
       },
       {
-        "name": "尼康相机",
+        "name": "灏煎悍鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/0944e202307261401165586.image/jpeg"
       },
       {
-        "name": "三星相机",
+        "name": "涓夋槦鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/18320202307261401244849.image/jpeg"
       },
       {
-        "name": "卡西欧相机",
+        "name": "鍗¤タ娆х浉鏈?,
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/47c63202307261401322944.image/jpeg"
       },
       {
-        "name": "富士相机",
+        "name": "瀵屽＋鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/693ea202307261401433137.image/jpeg"
       },
       {
-        "name": "奥林巴斯",
+        "name": "濂ユ灄宸存柉",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/9b25c202307261401569998.image/jpeg"
       },
       {
-        "name": "柯达相机",
+        "name": "鏌揪鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/764ad202307261402106119.image/jpeg"
       },
       {
-        "name": "松下相机",
+        "name": "鏉句笅鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/f0cbb202307261402204055.image/jpeg"
       },
       {
-        "name": "宾得相机",
+        "name": "瀹惧緱鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-9-7/%E5%AE%BE%E5%BE%97.png"
       },
       {
-        "name": "理光相机",
+        "name": "鐞嗗厜鐩告満",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-9-7/%E7%90%86%E5%85%89"
       }
     ]
   },
   {
-    "title": "台式电脑报价",
+    "title": "鍙板紡鐢佃剳鎶ヤ环",
     "items": [
       {
-        "name": "电脑主机/主板",
+        "name": "鐢佃剳涓绘満/涓绘澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-26/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231126114106.png"
       },
       {
-        "name": "电脑显卡",
+        "name": "鐢佃剳鏄惧崱",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-26/%E6%98%BE%E5%8D%A1.png"
       },
       {
-        "name": "电脑内存条",
+        "name": "鐢佃剳鍐呭瓨鏉?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-26/%E5%86%85%E5%AD%98%E6%9D%A1.png"
       },
       {
-        "name": "电脑硬盘",
+        "name": "鐢佃剳纭洏",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-26/%E7%94%B5%E8%84%91%E7%A1%AC%E7%9B%98.png"
       },
       {
-        "name": "电脑一体机",
+        "name": "鐢佃剳涓€浣撴満",
         "img": "/static/images/categories/img_181dbee9fc82.jpg"
       },
       {
-        "name": "电脑CPU",
+        "name": "鐢佃剳CPU",
         "img": "/static/images/categories/img_db6f0f006d3f.jpg"
       },
       {
-        "name": "点数cpu",
+        "name": "鐐规暟cpu",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/77a93202307261338372238.image/jpeg"
       },
       {
-        "name": "主机光驱/电源",
+        "name": "涓绘満鍏夐┍/鐢垫簮",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2023-11-28/%E5%9B%BE%E7%89%871.png"
       },
       {
-        "name": "显示器",
+        "name": "鏄剧ず鍣?,
         "img": "/static/images/categories/img_2c3430c81c0c.jpg"
       }
     ]
   },
   {
-    "title": "笔记本电脑/平板回收报价",
+    "title": "绗旇鏈數鑴?骞虫澘鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "低端笔记本",
+        "name": "浣庣绗旇鏈?,
         "img": "/static/images/categories/img_025fb865e2a5.jpg"
       },
       {
-        "name": "品牌笔记本",
+        "name": "鍝佺墝绗旇鏈?,
         "img": "/static/images/categories/img_4003bde85dff.jpg"
       },
       {
-        "name": "苹果笔记本",
+        "name": "鑻规灉绗旇鏈?,
         "img": "/static/images/categories/img_958e10bba36f.jpg"
       },
       {
-        "name": "杂牌平板",
+        "name": "鏉傜墝骞虫澘",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/b9475202307261337566369.image/jpeg"
       }
     ]
   },
   {
-    "title": "电子产品杂货铺报价",
+    "title": "鐢靛瓙浜у搧鏉傝揣閾烘姤浠?,
     "items": [
       {
-        "name": "苹果耳机",
+        "name": "鑻规灉鑰虫満",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-8-27/%E8%8B%B9%E6%9E%9C%E8%80%B3%E6%9C%BAicon.png"
       },
       {
-        "name": "POS机",
+        "name": "POS鏈?,
         "img": "/static/images/categories/img_09032ab72bb3.jpg"
       },
       {
-        "name": "对讲机",
+        "name": "瀵硅鏈?,
         "img": "/static/images/categories/img_7fe02e224c6b.jpg"
       },
       {
-        "name": "身份证阅读器",
+        "name": "韬唤璇侀槄璇诲櫒",
         "img": "/static/images/categories/img_ea5ba66e9af1.jpg"
       },
       {
-        "name": "方盒路由器",
+        "name": "鏂圭洅璺敱鍣?,
         "img": "/static/images/categories/img_11f3ca8e278c.jpg"
       },
       {
-        "name": "路由器",
+        "name": "璺敱鍣?,
         "img": "/static/images/categories/img_c87597e0095e.jpg"
       },
       {
-        "name": "光纤猫",
+        "name": "鍏夌氦鐚?,
         "img": "/static/images/categories/img_6e60e237e618.jpg"
       },
       {
-        "name": "4k/2k机顶盒",
+        "name": "4k/2k鏈洪《鐩?,
         "img": "/static/images/categories/img_d1f91cc378e2.jpg"
       },
       {
-        "name": "苹果盒子",
+        "name": "鑻规灉鐩掑瓙",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-6-14/%E8%8B%B9%E6%9E%9C%E7%9B%92%E5%AD%90.png"
       },
       {
-        "name": "小游戏机",
+        "name": "灏忔父鎴忔満",
         "img": "/static/images/categories/img_17238b427985.jpg"
       },
       {
-        "name": "大游戏机",
+        "name": "澶ф父鎴忔満",
         "img": "/static/images/categories/img_17b918c7d9c5.jpg"
       },
       {
-        "name": "汽车导航",
+        "name": "姹借溅瀵艰埅",
         "img": "/static/images/categories/img_2f9d4f447314.jpg"
       },
       {
-        "name": "扫描枪",
+        "name": "鎵弿鏋?,
         "img": "/static/images/categories/img_ab01ae90eae2.jpg"
       },
       {
-        "name": "户户通",
+        "name": "鎴锋埛閫?,
         "img": "/static/images/categories/img_fb002d12e271.jpg"
       },
       {
-        "name": "EVD、唱戏机",
+        "name": "EVD銆佸敱鎴忔満",
         "img": "/static/images/categories/img_4b0ebf381f16.jpg"
       },
       {
-        "name": "ipod系列",
+        "name": "ipod绯诲垪",
         "img": "/static/images/categories/img_76a90fdc5cd2.jpg"
       },
       {
-        "name": "美团点餐机",
+        "name": "缇庡洟鐐归鏈?,
         "img": "/static/images/categories/img_1de1dc0acba5.jpg"
       },
       {
-        "name": "随身4Gwifi",
+        "name": "闅忚韩4Gwifi",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/2de02202307261345105088.image/jpeg"
       },
       {
-        "name": "亚马逊电子书",
+        "name": "浜氶┈閫婄數瀛愪功",
         "img": "/static/images/categories/img_7bf8666c9329.jpg"
       },
       {
-        "name": "条码打印机",
+        "name": "鏉＄爜鎵撳嵃鏈?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-27/111.png"
       },
       {
-        "name": "儿童手表",
+        "name": "鍎跨鎵嬭〃",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/442b320230726134029663.image/jpeg"
       },
       {
-        "name": "投影仪",
-        "img": "/static/images/categories/img_85d3855e2861.png"
+        "name": "鎶曞奖浠?,
+        "img": "/static/images/categories/img_85d3855e2861.jpg"
       },
       {
-        "name": "微信支付设备",
-        "img": "/static/images/categories/img_211086504bd2.png"
+        "name": "寰俊鏀粯璁惧",
+        "img": "/static/images/categories/img_211086504bd2.jpg"
       },
       {
-        "name": "出餐宝",
-        "img": "/static/images/categories/img_17975d491131.png"
+        "name": "鍑洪瀹?,
+        "img": "/static/images/categories/img_17975d491131.jpg"
       },
       {
-        "name": "收银电子秤",
-        "img": "/static/images/categories/img_53c848d935b0.png"
+        "name": "鏀堕摱鐢靛瓙绉?,
+        "img": "/static/images/categories/img_53c848d935b0.jpg"
       },
       {
-        "name": "小票打印机",
-        "img": "/static/images/categories/img_e90b57ccf9c0.png"
+        "name": "灏忕エ鎵撳嵃鏈?,
+        "img": "/static/images/categories/img_e90b57ccf9c0.jpg"
       },
       {
-        "name": "支付宝支付设备",
-        "img": "/static/images/categories/img_cf1c55a49905.png"
+        "name": "鏀粯瀹濇敮浠樿澶?,
+        "img": "/static/images/categories/img_cf1c55a49905.jpg"
       },
       {
-        "name": "米家空气净化器",
-        "img": "/static/images/categories/img_01eb44798f74.png"
+        "name": "绫冲绌烘皵鍑€鍖栧櫒",
+        "img": "/static/images/categories/img_01eb44798f74.jpg"
       },
       {
-        "name": "打印机",
+        "name": "鎵撳嵃鏈?,
         "img": "/static/images/categories/img_11b9ab3a2bd2.jpg"
       },
       {
-        "name": "卫星电话",
-        "img": "/static/images/categories/img_496a8fb4a625.png"
+        "name": "鍗槦鐢佃瘽",
+        "img": "/static/images/categories/img_496a8fb4a625.jpg"
       },
       {
-        "name": "无线摄像头",
-        "img": "/static/images/categories/img_1f88c56a8ded.png"
+        "name": "鏃犵嚎鎽勫儚澶?,
+        "img": "/static/images/categories/img_1f88c56a8ded.jpg"
       },
       {
-        "name": "海康威视摄像头",
+        "name": "娴峰悍濞佽鎽勫儚澶?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-6-18/%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E6%91%84%E5%83%8F%E5%A4%B4.png"
       },
       {
-        "name": "平衡车",
+        "name": "骞宠　杞?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-14/%E5%B9%B3%E8%A1%A1%E8%BD%A6.jpg"
       },
       {
-        "name": "小度/天猫/小爱播放器",
+        "name": "灏忓害/澶╃尗/灏忕埍鎾斁鍣?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-27/%E5%B0%8F%E5%BA%A6.png"
       },
       {
-        "name": "小米音响",
+        "name": "灏忕背闊冲搷",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-27/1111.png"
       },
       {
-        "name": "索尼cd",
+        "name": "绱㈠凹cd",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-28/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250528114924.png"
       }
     ]
   },
   {
-    "title": "废旧手机内配回收报价",
+    "title": "搴熸棫鎵嬫満鍐呴厤鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "主板芯片",
+        "name": "涓绘澘鑺墖",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/8f537202307261347319252.image/jpeg"
       },
       {
-        "name": "苹果主板",
+        "name": "鑻规灉涓绘澘",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/a401b202307261456567861.image/jpeg"
       },
       {
-        "name": "内存卡",
+        "name": "鍐呭瓨鍗?,
         "img": "/static/images/categories/img_62719d771fa4.jpg"
       },
       {
-        "name": "苹果高端屏",
+        "name": "鑻规灉楂樼灞?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-7-31/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png"
       },
       {
-        "name": "手机屏",
+        "name": "鎵嬫満灞?,
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/87942202307261457408424.image/jpeg"
       },
       {
-        "name": "冷光屏黑白屏",
+        "name": "鍐峰厜灞忛粦鐧藉睆",
         "img": "/static/images/categories/img_f751fa4abdfb.jpg"
       },
       {
-        "name": "IPAD内爆屏",
+        "name": "IPAD鍐呯垎灞?,
         "img": "/static/images/categories/img_842fc67c355e.jpg"
       },
       {
-        "name": "国产摄像头",
+        "name": "鍥戒骇鎽勫儚澶?,
         "img": "/static/images/categories/img_300874fe7223.jpg"
       },
       {
-        "name": "企业库存机",
+        "name": "浼佷笟搴撳瓨鏈?,
         "img": "/static/images/categories/img_6e5aaf49e660.jpg"
       },
       {
-        "name": "电子废弃物",
+        "name": "鐢靛瓙搴熷純鐗?,
         "img": "/static/images/categories/img_e8a0759ba0df.jpg"
       }
     ]
   },
   {
-    "title": "环保品牌平板",
+    "title": "鐜繚鍝佺墝骞虫澘",
     "items": [
       {
-        "name": "苹果平板",
+        "name": "鑻规灉骞虫澘",
         "img": "/static/images/categories/img_c71d1c093910.jpg"
       },
       {
-        "name": "三星平板",
+        "name": "涓夋槦骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/15978202307261402547769.image/jpeg"
       },
       {
-        "name": "小米平板",
+        "name": "灏忕背骞虫澘",
         "img": "/static/images/categories/img_8cb8b9edc2ff.jpg"
       },
       {
-        "name": "华为平板",
+        "name": "鍗庝负骞虫澘",
         "img": "/static/images/categories/img_bc9ab6247f4f.jpg"
       },
       {
-        "name": "荣耀平板",
+        "name": "鑽ｈ€€骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2025-9-16/%E8%8D%A3%E8%80%80.png"
       },
       {
-        "name": "OPPO/VIVO平板",
-        "img": "/static/images/categories/img_55d08e68eae8.png"
+        "name": "OPPO/VIVO骞虫澘",
+        "img": "/static/images/categories/img_55d08e68eae8.jpg"
       },
       {
-        "name": "品牌学习机",
+        "name": "鍝佺墝瀛︿範鏈?,
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/3be7c202307261343267165.image/jpeg"
       }
     ]
   },
   {
-    "title": "疑难机型查看",
+    "title": "鐤戦毦鏈哄瀷鏌ョ湅",
     "items": [
       {
-        "name": "华为",
+        "name": "鍗庝负",
         "img": "/static/images/categories/img_16a518e9609f.jpg"
       },
       {
@@ -518,39 +518,39 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/543d6202307261404022202.image/jpeg"
       },
       {
-        "name": "小米",
+        "name": "灏忕背",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/d00a72023072614041021.image/jpeg"
       },
       {
-        "name": "苹果",
+        "name": "鑻规灉",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/03a23202307261404191726.image/jpeg"
       },
       {
-        "name": "三星",
+        "name": "涓夋槦",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/c927f202307261404314608.image/jpeg"
       },
       {
-        "name": "一加",
+        "name": "涓€鍔?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/2f5e3202307261404418308.image/jpeg"
       },
       {
-        "name": "诺基亚",
+        "name": "璇哄熀浜?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/cc278202307261404492457.image/jpeg"
       },
       {
-        "name": "金立",
+        "name": "閲戠珛",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/49146202307261405005179.image/jpeg"
       },
       {
-        "name": "美图",
+        "name": "缇庡浘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/0fe60202307261405104123.image/jpeg"
       },
       {
-        "name": "魅族",
+        "name": "榄呮棌",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/1d884202307261405198912.image/jpeg"
       },
       {
-        "name": "努比亚",
+        "name": "鍔瘮浜?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/b60d0202307261405315721.image/jpeg"
       },
       {
@@ -558,19 +558,19 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/ae185202307261405398695.image/jpeg"
       },
       {
-        "name": "锤子",
+        "name": "閿ゅ瓙",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/3e55e202307261405479094.image/jpeg"
       },
       {
-        "name": "中兴",
+        "name": "涓叴",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/2540b202307261406061189.image/jpeg"
       },
       {
-        "name": "酷派",
+        "name": "閰锋淳",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/6b483202307261406219871.image/jpeg"
       },
       {
-        "name": "联想",
+        "name": "鑱旀兂",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/35323202307261407014812.image/jpeg"
       },
       {
@@ -578,19 +578,19 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/55f17202307261407125751.image/jpeg"
       },
       {
-        "name": "黑莓",
+        "name": "榛戣帗",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/00941202307261407309991.image/jpeg"
       },
       {
-        "name": "糖果/国美",
+        "name": "绯栨灉/鍥界編",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/95972202307261407405805.image/jpeg"
       },
       {
-        "name": "海信",
+        "name": "娴蜂俊",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/023a1202307261407479760.image/jpeg"
       },
       {
-        "name": "朵唯",
+        "name": "鏈靛敮",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/28417202307261407557019.image/jpeg"
       },
       {
@@ -600,55 +600,55 @@
     ]
   },
   {
-    "title": "家用家电回收报价",
+    "title": "瀹剁敤瀹剁數鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "品牌扫地机器人",
+        "name": "鍝佺墝鎵湴鏈哄櫒浜?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-27/x1pro.png"
       },
       {
-        "name": "戴森吹风机",
+        "name": "鎴存．鍚归鏈?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-3-26/%E6%88%B4%E6%A3%AE%E5%90%B9%E9%A3%8E%E6%9C%BA.png"
       },
       {
-        "name": "电视机",
+        "name": "鐢佃鏈?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/77c6f202307261408269887.image/jpeg"
       },
       {
-        "name": "洗衣机",
+        "name": "娲楄。鏈?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/6900f202307261408353558.image/jpeg"
       },
       {
-        "name": "冰箱",
+        "name": "鍐扮",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/0c9ff202307261408448059.image/jpeg"
       },
       {
-        "name": "空调",
+        "name": "绌鸿皟",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/dd5fb202307261408525229.image/jpeg"
       }
     ]
   },
   {
-    "title": "靓机回收报价",
+    "title": "闈撴満鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "苹果有保",
+        "name": "鑻规灉鏈変繚",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/727d6202307261409365635.image/jpeg"
       },
       {
-        "name": "苹果无保",
+        "name": "鑻规灉鏃犱繚",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/a356d202307261409441237.image/jpeg"
       },
       {
-        "name": "华为旗舰",
+        "name": "鍗庝负鏃楄埌",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/61281202307261409533552.image/jpeg"
       },
       {
-        "name": "华为",
+        "name": "鍗庝负",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/c4fa4202307261410013322.image/jpeg"
       },
       {
-        "name": "真我/realme",
+        "name": "鐪熸垜/realme",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/482b1202307261410103576.image/jpeg"
       },
       {
@@ -664,35 +664,35 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/e1be7202307261410381962.image/jpeg"
       },
       {
-        "name": "小米",
+        "name": "灏忕背",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/cf61020230726141050261.image/jpeg"
       },
       {
-        "name": "红米、黑鲨",
+        "name": "绾㈢背銆侀粦椴?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/cf00e202307261411008538.image/jpeg"
       },
       {
-        "name": "荣耀其他",
+        "name": "鑽ｈ€€鍏朵粬",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/8dbc2202307261411105440.image/jpeg"
       },
       {
-        "name": "荣耀",
+        "name": "鑽ｈ€€",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/ed40520230726141120635.image/jpeg"
       },
       {
-        "name": "魅族",
+        "name": "榄呮棌",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/25955202307261411295895.image/jpeg"
       },
       {
-        "name": "三星",
+        "name": "涓夋槦",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/111e0202307261411362817.image/jpeg"
       },
       {
-        "name": "联想",
+        "name": "鑱旀兂",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/7da53202307261411587168.image/jpeg"
       },
       {
-        "name": "努比亚",
+        "name": "鍔瘮浜?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/3ca4a202307261412058960.image/jpeg"
       },
       {
@@ -700,94 +700,94 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/cd506202307261412148038.image/jpeg"
       },
       {
-        "name": "一加",
+        "name": "涓€鍔?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/12711202307261412252477.image/jpeg"
       },
       {
-        "name": "锤子坚果",
+        "name": "閿ゅ瓙鍧氭灉",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/28f8b202307261413093771.image/jpeg"
       },
       {
-        "name": "华硕",
+        "name": "鍗庣",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/a83b2202307261413184194.image/jpeg"
       },
       {
-        "name": "蓝牙耳机",
+        "name": "钃濈墮鑰虫満",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/d5b94202307261414076730.image/jpeg"
       }
     ]
   },
   {
-    "title": "手表报价/靓机平板",
+    "title": "鎵嬭〃鎶ヤ环/闈撴満骞虫澘",
     "items": [
       {
-        "name": "苹果手表",
+        "name": "鑻规灉鎵嬭〃",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-09-02/3c704202309021740018310.image/png"
       },
       {
-        "name": "华为手表",
+        "name": "鍗庝负鎵嬭〃",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-09-03/07da5202309031018334774.image/png"
       },
       {
-        "name": "OPPO/VIVO手表",
+        "name": "OPPO/VIVO鎵嬭〃",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-09-03/c18f1202309031029286247.image/png"
       },
       {
-        "name": "小米手表",
+        "name": "灏忕背鎵嬭〃",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-29/%E5%B0%8F%E7%B1%B3%E6%89%8B%E8%A1%A8.webp"
       },
       {
-        "name": "苹果平板",
+        "name": "鑻规灉骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/3f350202307261413267083.image/jpeg"
       },
       {
-        "name": "华为平板",
+        "name": "鍗庝负骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/fcd9d202307261413354578.image/jpeg"
       },
       {
-        "name": "荣耀平板",
+        "name": "鑽ｈ€€骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/e2756202307261403362909.image/jpeg"
       },
       {
-        "name": "小米/红米 平板",
+        "name": "灏忕背/绾㈢背 骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/55590202307261413452425.image/jpeg"
       },
       {
-        "name": "三星平板",
+        "name": "涓夋槦骞虫澘",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/f8332202307261414155588.image/jpeg"
       },
       {
-        "name": "OPPO/vivo平板",
-        "img": "/static/images/categories/img_55d08e68eae8.png"
+        "name": "OPPO/vivo骞虫澘",
+        "img": "/static/images/categories/img_55d08e68eae8.jpg"
       },
       {
-        "name": "联想平板",
+        "name": "鑱旀兂骞虫澘",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-5-27/%E8%81%94%E6%83%B3%E5%B9%B3%E6%9D%BF.png"
       }
     ]
   },
   {
-    "title": "靓机平板/手表报价",
+    "title": "闈撴満骞虫澘/鎵嬭〃鎶ヤ环",
     "items": [
       {
-        "name": "小米手表",
+        "name": "灏忕背鎵嬭〃",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbjd/upload/2025-5-29/%E5%B0%8F%E7%B1%B3%E6%89%8B%E8%A1%A8.webp"
       }
     ]
   },
   {
-    "title": "新机回收报价",
+    "title": "鏂版満鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "苹果",
+        "name": "鑻规灉",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2021-05-22/23de2202105221448157.png"
       },
       {
-        "name": "华为",
+        "name": "鍗庝负",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2022-08-10/74771202208101950417195.image/png"
       },
       {
-        "name": "荣耀",
+        "name": "鑽ｈ€€",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/eca9d202307261442329023.image/jpeg"
       },
       {
@@ -795,7 +795,7 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/0936d202307261442077944.image/jpeg"
       },
       {
-        "name": "真我/realme",
+        "name": "鐪熸垜/realme",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2022-07-28/2f726202207281648434699.image/png"
       },
       {
@@ -807,74 +807,74 @@
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2022-08-11/57cbf202208111111262169.image/png"
       },
       {
-        "name": "小米",
+        "name": "灏忕背",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2021-05-22/4aae8202105221445567286.png"
       },
       {
-        "name": "红米/黑鲨",
+        "name": "绾㈢背/榛戦波",
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/cf00e202307261411008538.image/jpeg"
       },
       {
-        "name": "一加",
+        "name": "涓€鍔?,
         "img": "https://smhs-1258084849.cos.ap-nanjing.myqcloud.com/smhswbulk/2023-07-26/12711202307261412252477.image/jpeg"
       }
     ]
   },
   {
-    "title": "中药材",
+    "title": "涓嵂鏉?,
     "items": [
       {
-        "name": "蝉蜕",
+        "name": "铦夎湑",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-9-10/%E8%9D%89%E8%9C%95.jpg"
       },
       {
-        "name": "鳖甲、甲鱼壳",
+        "name": "槌栫敳銆佺敳楸煎３",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-9-10/%E7%94%B2%E9%B1%BC%E5%A3%B3.png"
       },
       {
-        "name": "蜂房（马蜂窝）",
+        "name": "铚傛埧锛堥┈铚傜獫锛?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2024-9-10/%E8%9C%82%E6%88%BF.png"
       }
     ]
   },
   {
-    "title": "废品圈",
+    "title": "搴熷搧鍦?,
     "items": [
       {
-        "name": "贵金属",
+        "name": "璐甸噾灞?,
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-10-21/%E9%87%91%E7%A0%96.jpeg"
       },
       {
-        "name": "钴锂",
+        "name": "閽撮攤",
         "img": "https://bjimg.smhsw.com/smhswbjd/upload/2025-12-29/%E9%92%B4%E9%94%82.png"
       }
     ]
   },
   {
-    "title": "名酒回收报价",
+    "title": "鍚嶉厭鍥炴敹鎶ヤ环",
     "items": [
       {
-        "name": "常见茅台",
+        "name": "甯歌鑼呭彴",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/ac5ae202307261459342332.image/jpeg"
       },
       {
-        "name": "历年茅台",
+        "name": "鍘嗗勾鑼呭彴",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/bff7c202307261459465219.image/jpeg"
       },
       {
-        "name": "生肖茅台",
+        "name": "鐢熻倴鑼呭彴",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/5c8ff20230726150020238.image/jpeg"
       },
       {
-        "name": "国产名酒",
+        "name": "鍥戒骇鍚嶉厭",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/8110c202307261500091918.image/jpeg"
       },
       {
-        "name": "品牌洋酒",
+        "name": "鍝佺墝娲嬮厭",
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/f9145202307261459574770.image/jpeg"
       },
       {
-        "name": "洋酒威士忌",
+        "name": "娲嬮厭濞佸＋蹇?,
         "img": "https://bjimg.smhsw.com/smhswbulk/2023-07-26/db487202307261500304296.image/jpeg"
       }
     ]

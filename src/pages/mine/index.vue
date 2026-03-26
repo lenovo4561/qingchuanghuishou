@@ -1,31 +1,16 @@
-<route type="page" lang="json">
-{
-  "style": {
-    "navigationStyle": "custom",
-    "navigationBarTextStyle": "white"
-  }
-}
-</route>
-
 <template>
   <view class="min-h-screen bg-[#f7f8fa] pb-32">
     <!-- Header Gradient Area -->
     <view
-      class="px-4 pb-12 rounded-b-[40rpx]"
-      style="
-        background: linear-gradient(180deg, #fe3247 0%, #ff4b58 48%, #ff6a75 100%);
-        padding-top: var(--status-bar-height, 44px);
-      "
+      class="px-4 pb-12 rounded-b-[40rpx] pt-4"
+      style="background: linear-gradient(180deg, #fe3247 0%, #ff4b58 48%, #ff6a75 100%)"
     >
-      <!-- Title -->
-      <view class="text-white text-center text-[18px] h-12 leading-[48px] font-normal tracking-wider">个人中心</view>
-
       <!-- User Info -->
-      <view class="flex items-start mt-2">
+      <view class="flex items-start mt-3">
         <!-- Avatar -->
         <view class="relative mr-4 flex flex-col items-center">
           <view class="w-[70px] h-[70px] bg-white rounded-full border-2 border-white/40 overflow-hidden shadow-sm">
-            <image src="https://via.placeholder.com/80/e5e7eb/a3a8b4?text=👤" class="w-full h-full object-cover" />
+            <image src="/static/images/logo.png" class="w-full h-full object-cover" />
           </view>
           <view
             class="text-[#ff3b3b] bg-white text-[10px] px-2 py-[2px] rounded-full absolute -bottom-2 whitespace-nowrap shadow-sm font-bold z-10"
@@ -52,15 +37,25 @@
     <view class="px-3 relative -mt-8">
       <!-- VIP Banner -->
       <view
-        class="bg-gradient-to-r from-[#2a2b30] to-[#121317] rounded-xl px-4 py-3.5 flex items-center justify-between mb-3 shadow-md relative overflow-hidden"
+        class="rounded-xl px-4 py-3.5 flex items-center justify-between mb-3 shadow-md relative overflow-hidden"
+        style="background: linear-gradient(90deg, #2a2b30 0%, #121317 100%)"
       >
         <view class="flex flex-col relative z-10">
           <text class="text-[#fce4a1] text-[20px] font-bold italic tracking-wider mb-1">报价VIP</text>
           <text class="text-[#c9b47e] text-[11px] tracking-wide">开通VIP会员，享受更多专属特权！</text>
         </view>
         <navigator
-          url="/pages/mine/vip-center"
-          class="bg-gradient-to-r from-[#fff3ca] to-[#eebd68] text-[#554010] text-[12px] px-3.5 py-1.5 rounded-full font-bold relative z-10 shadow-sm"
+          url="/pages-sub/mine/vip-center"
+          class="relative z-10 text-[#554010] text-[12px] font-bold shadow-sm"
+          style="
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 6px 14px;
+            border-radius: 999px;
+            background-color: #f4cd79;
+            background-image: linear-gradient(90deg, #fff3ca 0%, #eebd68 100%);
+          "
         >
           立即开通>
         </navigator>

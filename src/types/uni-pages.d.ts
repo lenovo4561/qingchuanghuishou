@@ -6,16 +6,16 @@
 interface NavigateToOptions {
   url: "/pages/index/index" |
        "/pages/cart/index" |
-       "/pages/index/demo" |
        "/pages/mine/index" |
-       "/pages/mine/vip-center" |
        "/pages/order/index" |
-       "/pages/product/exchange" |
-       "/pages/product/invite-friends" |
-       "/pages/product/list" |
-       "/pages/product/photo-price" |
-       "/pages/product/recycle-list-webview" |
-       "/pages/product/warranty-query";
+       "/pages-sub/index/demo" |
+       "/pages-sub/mine/vip-center" |
+       "/pages-sub/product/exchange" |
+       "/pages-sub/product/invite-friends" |
+       "/pages-sub/product/list" |
+       "/pages-sub/product/photo-price" |
+       "/pages-sub/product/recycle-list-webview" |
+       "/pages-sub/product/warranty-query";
 }
 interface RedirectToOptions extends NavigateToOptions {}
 

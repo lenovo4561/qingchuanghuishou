@@ -9,7 +9,7 @@
 </route>
 
 <template>
-  <view class="min-h-screen bg-[#f7f8fa] pb-[60px]">
+  <view class="min-h-screen bg-[#f7f8fa] pb-[calc(60px+var(--window-bottom,0px))]">
     <!-- Empty state -->
     <view v-if="cartList.length === 0" class="flex flex-col items-center pt-24">
       <view class="w-64 h-48 mb-6 relative">
@@ -129,7 +129,7 @@
 
       <!-- Bottom Fixed Action Bar -->
       <view
-        class="fixed bottom-[50px] left-0 right-0 h-[60px] bg-white border-t border-[#f0f0f0] flex items-center px-4 z-50 shadow-[0_-2px_10px_rgba(0,0,0,0.05)]"
+        class="fixed bottom-[var(--window-bottom,0px)] left-0 right-0 h-[60px] bg-white border-t border-[#f0f0f0] flex items-center px-4 z-50 shadow-[0_-2px_10px_rgba(0,0,0,0.05)]"
       >
         <view class="flex items-center" @tap="toggleSelectAll">
           <icon v-if="isAllSelected" type="success" size="20" color="#f52b41" />

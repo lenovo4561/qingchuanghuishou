@@ -197,7 +197,7 @@
             <view class="flex items-center flex-1">
               <text class="w-20 text-gray-500 text-[14px]">附近站点</text>
               <text class="flex-1 text-right text-[#ff3b3b] font-bold text-[14px] truncate ml-2">
-                数码回收网深圳运营中心
+                青创回收网深圳运营中心
               </text>
             </view>
             <text class="text-gray-300 text-[14px] ml-1">></text>
@@ -274,14 +274,14 @@
 
         <view class="bg-[#fff5f5] rounded-lg p-3 text-[13px] text-[#e63232] relative">
           <view class="mb-1 flex items-center justify-between">
-            <text>收件人: 张豹</text>
+            <text>收件人: 青创回收</text>
             <view class="bg-[#ff3b3b] text-white px-3 py-0.5 rounded-full text-[12px] absolute right-3 top-3">
               复制
             </view>
           </view>
-          <view class="mb-1"><text>联系电话: 15361685282</text></view>
+          <view class="mb-1"><text>联系电话: 13005286705</text></view>
           <view class="leading-relaxed pr-2">
-            <text>收货地址: 广东省深圳市福田区深南中路2018号(科学馆地铁站B口步行200米)兴华大厦B座12层整层</text>
+            <text>收货地址: 广东省深圳市福田区南园街道福田区上步南路国企大厦永富楼A栋16D</text>
           </view>
         </view>
       </view>
@@ -575,17 +575,17 @@ const resetLevel = (index: number) => {
 
 const stores = [
   {
-    name: '数码回收网深圳运营中心',
+    name: '青创回收网深圳运营中心',
     distance: '6.99km',
     isDefault: true,
-    address: '广东省深圳市福田区深南中路2018号(科学馆地铁站B口步行200米)兴华大厦B座12层整层',
+    address: '广东省深圳市福田区南园街道福田区上步南路国企大厦永富楼A栋16D',
     hours: '10:00-22:00'
   },
   {
     name: '安徽门店',
     distance: '1209.14km',
     isDefault: false,
-    address: '安徽省阜阳市太和县双浮镇双北路1号数码回收网废旧手机回收中心（五星大桥南50米路）',
+    address: '安徽省阜阳市太和县双浮镇双北路1号青创回收网废旧手机回收中心（五星大桥南50米路）',
     hours: '早6:00 至 晚 18:00'
   }
 ]

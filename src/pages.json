@@ -17,27 +17,11 @@
 			}
 		},
 		{
-			"path": "pages/index/demo",
-			"type": "page",
-			"style": {
-				"navigationBarTitleText": "请求测试页面",
-				"navigationBarTextStyle": "black",
-				"navigationBarBackgroundColor": "#ffffff",
-				"backgroundColor": "#ffffff"
-			}
-		},
-		{
 			"path": "pages/mine/index",
 			"type": "page",
 			"style": {
-				"navigationBarTitleText": "我的"
-			}
-		},
-		{
-			"path": "pages/mine/vip-center",
-			"type": "page",
-			"style": {
-				"navigationStyle": "custom",
+				"navigationBarTitleText": "个人中心",
+				"navigationBarBackgroundColor": "#fe3247",
 				"navigationBarTextStyle": "white"
 			}
 		},
@@ -46,54 +30,6 @@
 			"type": "page",
 			"style": {
 				"navigationBarTitleText": "去下单"
-			}
-		},
-		{
-			"path": "pages/product/exchange",
-			"type": "page",
-			"style": {
-				"navigationBarTitleText": "限时特惠",
-				"navigationStyle": "custom",
-				"navigationBarTextStyle": "white"
-			}
-		},
-		{
-			"path": "pages/product/invite-friends",
-			"type": "page",
-			"style": {
-				"navigationStyle": "custom",
-				"navigationBarTextStyle": "white"
-			}
-		},
-		{
-			"path": "pages/product/list",
-			"type": "page",
-			"style": {
-				"navigationBarTitleText": "产品列表"
-			}
-		},
-		{
-			"path": "pages/product/photo-price",
-			"type": "page",
-			"style": {
-				"navigationBarTitleText": "拍照查价",
-				"navigationBarBackgroundColor": "#ffffff",
-				"navigationBarTextStyle": "black"
-			}
-		},
-		{
-			"path": "pages/product/recycle-list-webview",
-			"type": "page",
-			"style": {
-				"navigationBarTitleText": "回收列表"
-			}
-		},
-		{
-			"path": "pages/product/warranty-query",
-			"type": "page",
-			"style": {
-				"navigationStyle": "custom",
-				"navigationBarTextStyle": "black"
 			}
 		}
 	],
@@ -127,7 +63,7 @@
 			},
 			{
 				"pagePath": "pages/mine/index",
-				"text": "我的",
+				"text": "个人中心",
 				"iconPath": "static/tabbar/mine.png",
 				"selectedIconPath": "static/tabbar/mine-active.png"
 			}
@@ -140,5 +76,76 @@
 			"^(?!z-paging-refresh|z-paging-load-more)z-paging(.*)": "z-paging/components/z-paging$1/z-paging$1.vue"
 		}
 	},
-	"subPackages": []
+	"subPackages": [
+		{
+			"root": "pages-sub",
+			"pages": [
+				{
+					"path": "index/demo",
+					"type": "page",
+					"style": {
+						"navigationBarTitleText": "请求测试页面",
+						"navigationBarTextStyle": "black",
+						"navigationBarBackgroundColor": "#ffffff",
+						"backgroundColor": "#ffffff"
+					}
+				},
+				{
+					"path": "mine/vip-center",
+					"type": "page",
+					"style": {
+						"navigationStyle": "custom",
+						"navigationBarTextStyle": "white"
+					}
+				},
+				{
+					"path": "product/exchange",
+					"type": "page",
+					"style": {
+						"navigationBarTitleText": "限时特惠",
+						"navigationStyle": "custom",
+						"navigationBarTextStyle": "white"
+					}
+				},
+				{
+					"path": "product/invite-friends",
+					"type": "page",
+					"style": {
+						"navigationStyle": "custom",
+						"navigationBarTextStyle": "white"
+					}
+				},
+				{
+					"path": "product/list",
+					"type": "page"
+				},
+				{
+					"path": "product/photo-price",
+					"type": "page",
+					"style": {
+						"navigationBarTitleText": "拍照查价",
+						"navigationBarBackgroundColor": "#ffffff",
+						"navigationBarTextStyle": "black"
+					}
+				},
+				{
+					"path": "product/recycle-list-webview",
+					"type": "page",
+					"style": {
+						"navigationBarTitleText": "回收列表",
+						"navigationBarTextStyle": "black",
+						"navigationBarBackgroundColor": "#ffffff"
+					}
+				},
+				{
+					"path": "product/warranty-query",
+					"type": "page",
+					"style": {
+						"navigationStyle": "custom",
+						"navigationBarTextStyle": "black"
+					}
+				}
+			]
+		}
+	]
 }

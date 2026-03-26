@@ -49,6 +49,7 @@
     /* 小程序特有相关 */
     "mp-weixin" : {
         "appid" : "",
+        "lazyCodeLoading" : "requiredComponents",
         "setting" : {
             "urlCheck" : false,
             "es6" : true,
@@ -64,6 +65,10 @@
                 {
                     "type": "folder",
                     "value": "static/onLine"
+                },
+                {
+                    "type": "folder",
+                    "value": "uni_modules/lime-echart/static"
                 }
             ]
         }

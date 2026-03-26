@@ -55,7 +55,7 @@
 
         <!-- Card 2 -->
         <navigator
-          url="/pages/product/list"
+          url="/pages-sub/product/list"
           hover-class="none"
           class="bg-white rounded-xl p-3 relative h-28 shadow-sm box-border flex flex-col overflow-hidden"
         >
@@ -77,7 +77,7 @@
 
         <!-- Card 3 -->
         <navigator
-          url="/pages/product/exchange"
+          url="/pages-sub/product/exchange"
           hover-class="none"
           class="bg-white rounded-xl p-3 relative h-28 shadow-sm box-border flex flex-col overflow-hidden"
         >
@@ -99,7 +99,7 @@
 
         <!-- Card 4 -->
         <navigator
-          url="/pages/product/photo-price"
+          url="/pages-sub/product/photo-price"
           hover-class="none"
           class="bg-white rounded-xl p-3 relative h-28 shadow-sm box-border flex flex-col overflow-hidden"
         >
@@ -121,7 +121,7 @@
 
         <!-- Card 5 -->
         <navigator
-          url="/pages/product/warranty-query"
+          url="/pages-sub/product/warranty-query"
           hover-class="none"
           class="bg-white rounded-xl p-3 relative h-28 shadow-sm box-border flex flex-col overflow-hidden"
         >
@@ -143,7 +143,7 @@
 
         <!-- Card 6 -->
         <navigator
-          url="/pages/product/invite-friends"
+          url="/pages-sub/product/invite-friends"
           hover-class="none"
           class="bg-white rounded-xl p-3 relative h-28 shadow-sm box-border flex flex-col overflow-hidden"
         >
@@ -194,7 +194,7 @@
         <view class="flex items-center justify-between mb-2.5">
           <view class="flex items-center text-gray-600 text-[13px]">
             <image src="https://via.placeholder.com/16?text=P" class="w-4 h-4 mr-2" />
-            <text>张豹 15361685282</text>
+            <text>青创回收 13005286705</text>
           </view>
           <text class="text-[#ff3b3b] text-[13px]">拨打></text>
         </view>
@@ -202,7 +202,7 @@
         <view class="flex items-center justify-between mb-2.5">
           <view class="flex items-center text-gray-600 text-[13px]">
             <image src="https://via.placeholder.com/16?text=W" class="w-4 h-4 mr-2" />
-            <text>15361685282</text>
+            <text>13005286705</text>
           </view>
           <text class="text-[#ff3b3b] text-[13px]">复制></text>
         </view>
@@ -210,9 +210,7 @@
         <view class="flex items-start justify-between">
           <view class="flex items-start text-gray-600 text-[13px] pr-4 flex-1">
             <image src="https://via.placeholder.com/16?text=L" class="w-4 h-4 mr-2 mt-0.5 flex-shrink-0" />
-            <text class="leading-relaxed">
-              广东省深圳市福田区深南中路2018号(科学馆地铁站B口步行200米)兴华大厦B座12层整层
-            </text>
+            <text class="leading-relaxed">广东省深圳市福田区南园街道福田区上步南路国企大厦永富楼A栋16D</text>
           </view>
           <text class="text-[#ff3b3b] text-[13px] whitespace-nowrap pt-0.5">导航></text>
         </view>
@@ -436,7 +434,7 @@ const goToOrder = () => {
 const onCategoryItemTap = (categoryTitle: string) => {
   if (categoryTitle === '废旧手机回收报价') {
     uni.navigateTo({
-      url: '/pages/product/recycle-list-webview'
+      url: '/pages-sub/product/recycle-list-webview'
     })
   }
 }
